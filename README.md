@@ -14,6 +14,8 @@ Atenciosamente, Ricardo Torres Gonzales
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardogonzalesweb&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogonzalesweb&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardogonzalesweb&bg_color=1a1a1a&color=cc76ff&line=bb0ff0&point=56fb93&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
