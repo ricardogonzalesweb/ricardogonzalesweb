@@ -9,11 +9,9 @@ Atualmente, estou direcionando minha energia para compartilhar meus conhecimento
 
 Atenciosamente, Ricardo Torres Gonzales
 
- <div>
-   <a href="https://github.com/ricardogonzalesweb">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardogonzalesweb&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogonzalesweb&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardogonzalesweb&show_icons=true&theme=radical) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ricardogonzalesweb&bg_color=1a1a1a&color=cc76ff&line=bb0ff0&point=56fb93&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
     
