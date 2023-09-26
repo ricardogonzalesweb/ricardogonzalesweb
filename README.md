@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/rafaelalexandrino/rafaelalexandrino/main/github-header-image%20(2).png" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ricardogonzalesweb/ricardogonzalesweb/blob/main/github-header-image.png" />
 &nbsp;&nbsp;&nbsp;
 
 ## Bem-vindo(a) ao perfil do Ricardo Gonzales Web 😁
