@@ -2,9 +2,9 @@
 &nbsp;&nbsp;&nbsp;
 
 ## Bem-vindo(a) ao perfil do Ricardo Gonzales Web 😁
-Ricardo Torres Gonzales, com 43 anos de idade e natural de Andradas, MG, tenho mais de uma década de experiência na área de Web Design e Programação com experiência em HTML, CSS e JAVASCRIPT. Nos últimos dois anos, concentrei meus esforços no desenvolvimento utilizando WordPress e Elementor, mas nunca deixando de lado minha paixão pelo código 
+Ricardo Torres Gonzales, com 43 anos de idade e natural de Andradas, MG, tenho mais de uma década de experiência na área de Web Design e Programação com experiência em HTML, CSS e JAVASCRIPT. Nos últimos dois anos, concentrei meus esforços no desenvolvimento utilizando WordPress e Elementor, mas nunca deixando de lado minha paixão pelo código. 
 
-Atualmente, estou direcionando minha energia para compartilhar meus conhecimentos por meio das Redes Sociais. É com grande satisfação que o recebo, colocando-me à disposição para oferecer-lhe meus serviços e compartilhar insights valiosos.
+Atualmente, estou direcionando minha energia para compartilhar meus conhecimentos por meio das Redes Sociais. É com grande satisfação que o recebo, colocando-me à compartilhar insights valiosos.
 
 
 Atenciosamente, Ricardo Torres Gonzales
